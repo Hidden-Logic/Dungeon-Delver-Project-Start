@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
+  - 
   - 
   - 
   - 
@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 2231936335
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 3119033619
+    locked: 0
+  - name: Dray
+    uniqueID: 1082716417
+    locked: 0
+  - name: Items
+    uniqueID: 1587163625
     locked: 0
